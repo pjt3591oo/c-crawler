@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\mung\desktop\c++_crawler\c++_crawler\cpr\</FILEPATH>
+      <FILENAME>util.cpp</FILENAME>
+      <LINE>69</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>6330</DEFECTCODE>
+    <DESCRIPTION>'char' passed as _Param_(1) when 'unsigned char' is required in call to 'isalnum'.</DESCRIPTION>
+    <FUNCTION>cpr::util::urlEncode</FUNCTION>
+    <DECORATED>?urlEncode@util@cpr@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV34@@Z</DECORATED>
+    <FUNCLINE>61</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
