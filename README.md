@@ -10,5 +10,5 @@
 
 ### main파일
 ```
-main.cpp
+./c++_crawler/main.cpp
 ```
