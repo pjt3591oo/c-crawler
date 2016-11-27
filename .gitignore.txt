@@ -1,4 +1,4 @@
-c++_crawler.VC
+c++_crawler.VC.db
 .vs/c++_crawler/v14
 
 c++_crawler/Debug
